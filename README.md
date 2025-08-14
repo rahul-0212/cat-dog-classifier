@@ -14,11 +14,17 @@ Includes routes: Home, About, Contact, and Project (upload page)
 
 📁 Project Structure
 ├── static/Data/images/       # Sample images (optional)
+
 ├── templates/                # HTML files: index.html, about.html, contact.html, project.html
+
 ├── app.py                    # Flask web server
+
 ├── model.h5                  # Pre-trained Keras model
+
 ├── cat_dog.ipynb             # Notebook used for training the model
+
 ├── README.md                 # Project documentation
+
 ├── LICENSE
 
 ⚙️ Setup Instructions
@@ -70,3 +76,4 @@ Uploaded image is deleted after classification.
 
 
 This project is licensed under the MIT License.
+
