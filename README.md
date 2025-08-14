@@ -68,4 +68,5 @@ Uploaded image is deleted after classification.
 
 📄 License
 
+
 This project is licensed under the MIT License.
